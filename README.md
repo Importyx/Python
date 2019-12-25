@@ -1,11 +1,17 @@
 task1.class数据集的训练
-ID name AGE SEX WEIGHT HEIGHT
+
 1.SEX 男女各几人 
+
 2.分sex下weight height 分布
+
 3.分sex, age下 weight, height 分布
+
 4.建图x age, age, height
       y height, weight, weight
+      
 5.建立一个回归方程weight age height 
+
+
 
 task2.class数据集的训练
 1.分sex-weight.mean-sex---表A
