@@ -14,6 +14,7 @@ task1.class数据集的训练
 
 
 task2.class数据集的训练
+
 1.分sex-weight.mean-sex---表A
              height.mean-sex---表B
 
